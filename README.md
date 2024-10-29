@@ -1,4 +1,4 @@
-# Bem-vindo ao meu Repositório!
+# Bem-vindo ao meu GitHub!
 
 Sou estudante de **Sistemas de Informação** e apaixonado por tecnologia e desenvolvimento de software. 
 Aqui você encontrará projetos e experiências que refletem minha jornada e aprendizado na área.
